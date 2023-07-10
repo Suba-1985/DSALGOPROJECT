@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="dsAlgo_TestRunnerTest.TestRunnerTest"/>
+      <class name="dsAlgo_TestRunner.TestRunner"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

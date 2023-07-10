@@ -15,7 +15,7 @@ import dsAlgo_Utilities.LoggerLoad;
 import io.cucumber.java.AfterAll;
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.BeforeAll;
-import io.cucumber.java.Scenario;e;
+import io.cucumber.java.Scenario;
 
 public class Hooks {
 	private static DriverFactory driverFactory;

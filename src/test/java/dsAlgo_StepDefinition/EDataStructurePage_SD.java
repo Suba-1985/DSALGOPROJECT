@@ -55,6 +55,7 @@ public void the_user_enter_valid_python_ds_code_in_try_editor_from_sheet_and(Str
 	List<Map<String, String>> rdata = reader.getData(ConfigReader.programdataExcelpath(),SheetName);
 	code=rdata.get(rowno).get("Pythoncode");
 	expectedresult=rdata.get(rowno).get("Result");
+	Thread.sleep(3000);
 	dataStructurePage.enter_code(code);
 }
 @When("The user clicks on run button for DS")

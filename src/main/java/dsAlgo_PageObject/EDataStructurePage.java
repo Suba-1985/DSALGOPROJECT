@@ -42,6 +42,7 @@ public class EDataStructurePage {
 	
 	public void enter_code(String code) 
 	{	PageUtils.implicit_wait(driver, tryEditor);
+	    
 		PageUtils.entercode(driver,tryEditor, code);
 	}
 	public void click_run() 

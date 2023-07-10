@@ -1133,3 +1133,52 @@
 [INFO ]2023-07-06 23:57:30.687 [main]LoggerLoad-Scenario Failed
 [INFO ]2023-07-07 00:02:52.914 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
 [INFO ]2023-07-07 00:03:20.750 [main]LoggerLoad-Closing App
+[INFO ]2023-07-10 18:44:11.729 [main]LoggerLoad-Launching apphttps://dsportalapp.herokuapp.com/
+[INFO ]2023-07-10 18:44:13.223 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:13.232 [main]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-10 18:44:14.519 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:14.523 [main]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-10 18:44:15.536 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:15.538 [main]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-10 18:44:16.587 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:16.588 [main]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-10 18:44:17.695 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:17.696 [main]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-10 18:44:18.637 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:18.639 [main]LoggerLoad-User Clicks on Drop Down DataStructures Button
+[INFO ]2023-07-10 18:44:19.663 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:20.393 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:21.064 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:21.789 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:22.584 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:23.304 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:24.122 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:24.611 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:25.435 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:26.235 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:26.519 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:26.713 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:26.899 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:27.142 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:27.359 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:27.569 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:44:27.978 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:28.743 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:29.523 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:30.334 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:30.896 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:31.595 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:32.377 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:33.261 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:35.291 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:38.329 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:41.132 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:44.213 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:47.535 [main]LoggerLoad-https://dsportalapp.herokuapp.com/register
+[INFO ]2023-07-10 18:44:56.867 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:45:47.846 [main]LoggerLoad-Scenario Failed
+[INFO ]2023-07-10 18:46:10.002 [main]LoggerLoad-Scenario Failed
+[INFO ]2023-07-10 18:48:31.876 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:51:20.424 [main]LoggerLoad-from homePage :  https://dsportalapp.herokuapp.com/home
+[INFO ]2023-07-10 18:51:39.017 [main]LoggerLoad-Closing App
+[INFO ]2023-07-10 18:51:39.019 [main]LoggerLoad-Scenario Passed

@@ -70,7 +70,7 @@ public void the_user_should_be_presented_with_run_result_for_ds() {
 @When("The user enter python DS code with invalid syntax in tryEditor from sheet {string} and {int}")
 public void the_user_enter_python_ds_code_with_invalid_syntax_in_try_editor_from_sheet_and(String SheetName, Integer rowno) throws InvalidFormatException, IOException, InterruptedException{
 	 ExcelReader reader=new ExcelReader();
-	 List<Map<String, String>> rdata = reader.getData("ConfigReader.programdataExcelpath()",SheetName);
+	 List<Map<String, String>> rdata = reader.getData(ConfigReader.programdataExcelpath(),SheetName);
 	 code=rdata.get(rowno).get("Pythoncode");
 	 expectedresult=rdata.get(rowno).get("Result");
 	 dataStructurePage.enter_code(code);   

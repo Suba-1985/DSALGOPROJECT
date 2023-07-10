@@ -9,14 +9,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import dsAlgo_Driverfactory.DriverFactory;
-import dsAlgo_PageObject.ALandingPage;
 import dsAlgo_PageObject.BHomePage;
 import dsAlgo_Utilities.ConfigReader;
 import dsAlgo_Utilities.LoggerLoad;
 import io.cucumber.java.AfterAll;
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.BeforeAll;
-import io.cucumber.java.Scenario;
+import io.cucumber.java.Scenario;e;
 
 public class Hooks {
 	private static DriverFactory driverFactory;
@@ -85,10 +84,10 @@ public class Hooks {
 	public void tearDown(Scenario scenario)
 	{
 		if(scenario.isFailed())//take ScreenShot;
-		{	LoggerLoad	.error("Scenario Failed");
+		{	LoggerLoad.error("Scenario Failed");
 			String screenShotName=scenario.getName().replaceAll("", "_");
 			byte[] sourcePath=((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
-			scenario.attach(sourcePath,"image/png", screenShotName);
+			scenario.attach(sourcePath,"image/png", screenShotName);			
 		}
 	}
 }

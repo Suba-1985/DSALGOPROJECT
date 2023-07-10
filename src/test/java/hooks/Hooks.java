@@ -76,6 +76,7 @@ public class Hooks {
 	public static void quitBrowser()
 	{
 		LoggerLoad.info("Closing App");
+		LoggerLoad.info("Scenario Passed");
 		driver.close();
 	}
 	

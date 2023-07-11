@@ -8,7 +8,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 				plugin = { "pretty",
 						"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 						"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
-						"json:target/cucumber-reports/CucumberTestReport.json"},
+						"json:target\\cucumber-report.json"},
 		monochrome=true,  //console output color
 		 //tags from feature file
 		features = {"src/test/resources/Features"},

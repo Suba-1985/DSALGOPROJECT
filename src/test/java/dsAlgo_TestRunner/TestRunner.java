@@ -6,8 +6,8 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 @io.cucumber.testng.CucumberOptions(
 		//plugin = {"pretty", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}, //reporting purpose
 				plugin = { "pretty",
-					//	"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
-					//	"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+						"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
+						"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 						"json:target/cucumber-report.json"},
 		monochrome=false,  //console output color
 		 //tags from feature file
